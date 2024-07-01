@@ -15,10 +15,11 @@
       institution: ENS Paris-Saclay, Gif-sur-Yvette, France
       year: 2023-2024
       description:
-        - France's best Msc in Machine Learning Mathematics, Vision, Learning
+        - One of France's best Msc in Machine Learning
     - title: Engineering degree
       institution: Télécom Paris, Palaiseau, France
       year: 2021-2024
+      icon : lgo-tp.png
       description:
         - Télécom Paris is one of France's top engineering schools. It's considered as the best school in digital sciences in France.Télécom Paris is one of France's top engineering schools. It's considered as the best school in digital sciences in France.
         - I followed courses in Probability, Statistics, Machine Learning, Data Science
@@ -26,6 +27,11 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Student
+      institution : Polytechnique Montréal, Montréal, Canada.
+      year: 5/2024 - 9/2024
+      description : 
+      - Deep Learning for unsupervised anomaly detection in MRI images. 
     - title: Intern
       institution : Hôpital National des Quinze-Vingts, Paris, France.
       year: 7/2023 - 8/2024
